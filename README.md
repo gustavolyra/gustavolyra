@@ -1,11 +1,11 @@
-### Hi there 👋
-I'm Gustavo!
+### Hi there 👋<br/>
+I'm Gustavo!<br/>
 
-:mortar_board: Studied Electrical Engineer at Universidade Tecnologica Federal do Paraná (UTFPR)
-🌱 I’m currently learning abaout AWS
-📫 How to reach me: 
-    :telephone_receiver: +55 (047) 99968-5092
-    :e-mail: gustavo.c.lyra@live.com
+:mortar_board: Studied Electrical Engineer at Universidade Tecnologica Federal do Paraná (UTFPR)<br/>
+🌱 I’m currently learning abaout AWS<br/>
+📫 How to reach me: <br/>
+    :telephone_receiver: +55 (047) 99968-5092<br/>
+    :e-mail: gustavo.c.lyra@live.com<br/>
 <!--
 **gustavolyra/gustavolyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
